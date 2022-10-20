@@ -2,16 +2,6 @@
 给女朋友做的微信天气推送
 
 
-
-
-
-
-网址1   http://mp.weixin.qq.com/debug/cgi-bin/sandboxinfo?action=showinfo&t=sandbox/index
-网址2   https://id.qweather.com/
-
-
-
-
 {{date.DATA}} 
 
 地区：{{region.DATA}} 
@@ -41,5 +31,3 @@
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste.png)
 
 
-
-有别的建议欢迎留言
